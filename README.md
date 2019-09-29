@@ -1,5 +1,7 @@
 # Adapter-pattern
 
+# Adapter predstavlja klasu koja omogucava komunikaciju izmedju dva interfejsa. Pogledati primjer iznad.
+
 There are three categories in design patterns: creational, structural, and behavioral.
 Creational patterns provide a way to make objects, while hiding the creation logics, rather than
 instantiating objects directly. In short, they deal with object creation mechanisms.
