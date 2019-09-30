@@ -1,6 +1,6 @@
 # Adapter-pattern
 
-## Adapter predstavlja klasu koja omogucava komunikaciju izmedju dva interfejsa. Pogledati primjer iznad.
+## Kada imamo slucaj da jedna funkcionalnost u aplikaciji prati jedan interfejs, a druga drugi, a obje funkcionalnosti su slicne, tada postoji mogucnost za primjenu adapter paterna. Adapter predstavlja klasu koja omogucava komunikaciju izmedju dva interfejsa. Pogledati primjer iznad.
 
 There are three categories in design patterns: creational, structural, and behavioral.
 Creational patterns provide a way to make objects, while hiding the creation logics, rather than
